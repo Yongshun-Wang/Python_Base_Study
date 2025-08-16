@@ -1,0 +1,8 @@
+{
+  "products": [
+    {
+      "id": "P1",
+      "name": "Product 1",
+      "category": "Home",
+      "price": 62.52,
+      "in_stock": 
